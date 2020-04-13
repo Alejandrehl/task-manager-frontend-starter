@@ -7,6 +7,6 @@ Proyecto "Starter" para la clase 3 de React
 
 ### Primeros pasos
 
-1. Clonar repositorio: ``
+1. Clonar repositorio: `git clone git@github.com:Alejandrehl/task-manager-frontend-starter.git`
 2. Instalar dependencias: `yarn install` en la carpeta root
 3. Correr proyecto: `yarn start` en la carpeta root
