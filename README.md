@@ -1,4 +1,9 @@
-Proyecto "Starter" para la clase 3 de React
+Proyecto "Starter" para la clase 3 de React.
+
+- Backend del proyecto
+  - [Link del repositorio](https://github.com/Alejandrehl/task-manager-backend)
+  - [Link productivo](http://task-management-backend.us-east-2.elasticbeanstalk.com/)
+  - [Link Swagger](http://task-management-backend.us-east-2.elasticbeanstalk.com/api)
 
 ### Requerimientos
 
